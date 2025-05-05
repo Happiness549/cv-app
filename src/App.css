@@ -18,7 +18,7 @@ input, textarea {
   max-width: 500px;
   padding: 10px;
   margin: 5px 0 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #d3d3d3;
   border-radius: 8px;
   box-sizing: border-box;
 }
