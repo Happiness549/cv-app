@@ -18,14 +18,15 @@ input, textarea {
   max-width: 500px;
   padding: 10px;
   margin: 5px 0 10px;
-  border: 1px solid #d3d3d3;
+  border: 1px solid #ccc;
   border-radius: 8px;
   box-sizing: border-box;
+  background-color: bisque;
 }
 
 button {
   padding: 10px 20px;
-  background-color: #2d89ef;
+  background-color: #87CEEB;
   color: white;
   border: none;
   border-radius: 8px;
